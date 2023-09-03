@@ -1,0 +1,25 @@
+* {
+  font-family: Verdana, sans-serif;
+}
+
+.header.main {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+
+body {
+  background-color: rgba(11, 45, 96, 0.8);
+}
+
+.anchor {
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+}
+
+.image.main {
+  height: auto;
+  width: 470px;
+  border-radius: 10px;
+}
