@@ -12,10 +12,16 @@ body {
   background-color: rgba(11, 45, 96, 0.8);
 }
 
-.anchor {
+.anchor-recipes {
   font-size: 23px;
   color: #fccb06;
   text-decoration: overline;
+}
+
+.anchor-main {
+  font-size: 23px;
+  color: #fccb06;
+  text-decoration: none;
 }
 
 .image {
