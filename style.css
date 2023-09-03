@@ -14,12 +14,41 @@ body {
 
 .anchor {
   font-size: 23px;
-  color: white;
-  text-decoration: none;
+  color: #fccb06;
+  text-decoration: overline;
 }
 
-.image.main {
+.image {
   height: auto;
   width: 470px;
   border-radius: 10px;
+}
+
+.header.corn-ribs {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+
+h3 {
+  color: white;
+}
+
+.paragraph {
+  color: white;
+}
+
+h2 {
+  background-color: #fccb06;
+  border-radius: 7px;
+}
+
+.unordered-list {
+  color: white;
+  font-size: 20px;
+}
+
+.ordered-list {
+  color: white;
+  font-size: 20px;
 }
